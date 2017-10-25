@@ -56,11 +56,12 @@ body {
   background-color: #777;
 }
 .carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 500px;
+  margin-left : auto;
+  margin-right : auto;
+  vertical-align : middle;
+  width : auto;
+  max-height : 500px;
+  /*max-height : 500px; */
 }
 
 
@@ -80,6 +81,11 @@ body {
   margin-left: 10px;
 }
 
+.marketing .col-lg-5 p {
+  margin-right: auto;
+  margin-left: auto;
+}
+
 
 /* Featurettes
 ------------------------- */
@@ -95,7 +101,13 @@ body {
   letter-spacing: -1px;
 }
 
+.featurette p{
+	font-size : 20px;
+}
 
+.featurette ul{
+	font-size : 20px;
+}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
