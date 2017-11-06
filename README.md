@@ -1,3 +1,3 @@
 "# LandingPageNokiaIsHiring"
 Project Created for the event of October 19th
-Landing Page can be viewed at https://rawgit.com/fsalaun/LandingPageNokiaIsHiring/master/NokiaLannion.html
+Landing Page can be viewed at https://rawgit.com/ourtigarage/LandingPageNokiaIsHiring/master/NokiaLannion.html
