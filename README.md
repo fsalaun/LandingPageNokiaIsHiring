@@ -1,3 +1,3 @@
 "# LandingPageNokiaIsHiring"
-Project Created for the event of October 19th
+Project Created for the event of October 23rd
 
